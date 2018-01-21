@@ -1,0 +1,10 @@
+
+A text-based command line client app for the Mastodon social network.
+
+Primary concepts:
+* Scrolling real-time timeline
+* Tooting is low-friction
+* Keyboard shortcuts
+
+First goal:
+* Able to connect to a Mastodon instance and print last 10 toots on timeline
