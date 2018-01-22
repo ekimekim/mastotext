@@ -6,5 +6,13 @@ Primary concepts:
 * Tooting is low-friction
 * Keyboard shortcuts
 
-First goal:
+Since this project seems to be attracting some attention (which is great :D),
+I'd like to make this point clear: This is not yet working software.
+I'll try to keep this README updated with latest status.
+Right now, the extent of the software is the ability to log in and display basic info.
+
+In the meantime, please feel free to leave thoughts or feature requests in the Issues tab,
+or drop me a line at @ekimekim@mstdn.io
+
+Next goal:
 * Able to connect to a Mastodon instance and print last 10 toots on timeline
